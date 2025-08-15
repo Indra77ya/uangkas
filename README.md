@@ -1,10 +1,6 @@
-# Wangkas
+# Uangkas
 
 Wangkas adalah aplikasi pendataan uang kas yang dibuat menggunakan Framework Laravel 11 dan Fullstack Framework Livewire 3. Aplikasi ini dirancang untuk sistem pembayaran kas yang dilakukan satu kali setiap minggu, dan sangat cocok digunakan di lingkungan sekolah atau untuk masing-masing kelas.
-
-## Demo
-
--   Demo Aplikasi (https://demo.wangkas.mrizkimaulidan.my.id/login)
 
 ## Prasyarat
 
@@ -161,9 +157,3 @@ Pass    : secret
 ## Kontribusi
 
 Silakan request melalui kolom `Pull Requests` jika ingin melakukan kontribusi.
-
-## Lisensi
-
-Aplikasi ini boleh untuk dibagi dan diubah. Mohon tidak untuk diperjualbelikan!
-
-Muhammad Rizki Maulidan - [@mrizkimaulidan](https://github.com/mrizkimaulidan)
